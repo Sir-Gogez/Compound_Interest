@@ -1,0 +1,16 @@
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\bin\Debug\net5.0\ExerciseExam1.exe
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\bin\Debug\net5.0\ExerciseExam1.deps.json
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\bin\Debug\net5.0\ExerciseExam1.runtimeconfig.json
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\bin\Debug\net5.0\ExerciseExam1.runtimeconfig.dev.json
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\bin\Debug\net5.0\ExerciseExam1.dll
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\bin\Debug\net5.0\ref\ExerciseExam1.dll
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\bin\Debug\net5.0\ExerciseExam1.pdb
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\obj\Debug\net5.0\ExerciseExam1.csproj.AssemblyReference.cache
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\obj\Debug\net5.0\ExerciseExam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\obj\Debug\net5.0\ExerciseExam1.AssemblyInfoInputs.cache
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\obj\Debug\net5.0\ExerciseExam1.AssemblyInfo.cs
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\obj\Debug\net5.0\ExerciseExam1.csproj.CoreCompileInputs.cache
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\obj\Debug\net5.0\ExerciseExam1.dll
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\obj\Debug\net5.0\ref\ExerciseExam1.dll
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\obj\Debug\net5.0\ExerciseExam1.pdb
+C:\Users\yosef\Documents\UPRB\S2021-2022\C# Workspace\Exam1\ExerciseExam1\ExerciseExam1\obj\Debug\net5.0\ExerciseExam1.genruntimeconfig.cache
